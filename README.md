@@ -1,6 +1,6 @@
 # static-blog
 
-FIXME: description
+A static blog generator write by Clojure
 
 ## Installation
 
